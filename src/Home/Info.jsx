@@ -12,7 +12,7 @@ import Box from '@mui/material/Box';
 export default function Info({ name, image, content,links }) {
   const handleOnClick = () => {
     
-      window.location.href = "http://localhost:5174/";
+      window.location.href = "https://booking-alpha-ten.vercel.app/";
     
   };
   return (
