@@ -2,7 +2,7 @@
 
 A full-featured travel booking platform built with React that allows users to search and explore options for flights, trains, buses, hotels, and holiday packages.
 
-> 🔗 Live Demo: https://clear-trip-tawny.vercel.app/
+> 🔗 Live Demo: https://clear-trip-i52e.vercel.app/
 
 ---
 
