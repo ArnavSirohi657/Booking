@@ -1,0 +1,81 @@
+[
+    {
+        "id": "holiday_001",
+        "name": "Goa Beach Getaway",
+        "location": "Goa, India",
+        "duration_days": 4,
+        "price": 15999,
+        "currency": "INR",
+        "rating": 4.7,
+        "inclusions": [
+            "Flight",
+            "Hotel",
+            "Breakfast",
+            "Sightseeing"
+        ],
+        "description": "Relax on Goa\u2019s beaches, explore forts, and enjoy vibrant nightlife."
+    },
+    {
+        "id": "holiday_002",
+        "name": "Royal Rajasthan Tour",
+        "location": "Jaipur, Udaipur & Jodhpur, India",
+        "duration_days": 7,
+        "price": 27999,
+        "currency": "INR",
+        "rating": 4.8,
+        "inclusions": [
+            "Hotel",
+            "Guided Tours",
+            "Breakfast",
+            "Camel Ride"
+        ],
+        "description": "Explore palaces, forts and the desert charm of Rajasthan."
+    },
+    {
+        "id": "holiday_003",
+        "name": "Kerala Backwaters Cruise",
+        "location": "Alleppey, Kerala",
+        "duration_days": 3,
+        "price": 18999,
+        "currency": "INR",
+        "rating": 4.6,
+        "inclusions": [
+            "Houseboat",
+            "Meals",
+            "Sightseeing"
+        ],
+        "description": "Experience the serene backwaters of Kerala on a private cruise."
+    },
+    {
+        "id": "holiday_004",
+        "name": "Himalayan Adventure",
+        "location": "Manali & Solang Valley, Himachal Pradesh",
+        "duration_days": 5,
+        "price": 20999,
+        "currency": "INR",
+        "rating": 4.5,
+        "inclusions": [
+            "Hotel",
+            "Adventure Sports",
+            "Transport",
+            "Meals"
+        ],
+        "description": "Enjoy trekking, skiing, and the breathtaking views of the Himalayas."
+    },
+    {
+        "id": "holiday_005",
+        "name": "Spiritual Varanasi Trip",
+        "location": "Varanasi, Uttar Pradesh",
+        "duration_days": 3,
+        "price": 11999,
+        "currency": "INR",
+        "rating": 4.4,
+        "inclusions": [
+            "Hotel",
+            "Boat Ride",
+            "Temple Visits",
+            "Guided Tours"
+        ],
+        "description": "Dive into the spiritual heart of India with temple visits and Ganga aarti."
+    }
+]
